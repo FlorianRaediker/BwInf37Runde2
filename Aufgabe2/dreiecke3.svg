@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<svg baseProfile="full" height="255.72896128797342" version="1.1" width="614.4974576126349" xmlns="http://www.w3.org/2000/svg" xmlns:ev="http://www.w3.org/2001/xml-events" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <defs/>
+  <g transform="scale(1,-1) translate(289.2355484036097,-250.72896128797342)">
+    <line stroke="green" stroke-width="3" x1="-289.2355484036097" x2="325.2619092090252" y1="0" y2="0"/>
+    <g>
+      <g>
+        <polygon fill="#FFFF00" id="D8" points="0,0 63.56099432828282,0.0 61.26398809760726,69.19337946925441" stroke="black"/>
+        <g transform="scale(1,-1) translate(0,-46.12891964616961)">
+          <text fill="#0000FF" text-anchor="middle" x="41.6083274752967" y="23.064459823084803">8</text>
+        </g>
+      </g>
+      <g>
+        <polygon fill="#FFFF80" id="D10" points="0,0 68.66007227473968,77.54865875840487 20.232361924181404,120.81246430302187" stroke="black"/>
+        <g transform="scale(1,-1) translate(0,-132.24074870761783)">
+          <text fill="#0000FF" text-anchor="middle" x="29.63081139964036" y="66.12037435380891">10</text>
+        </g>
+      </g>
+      <g>
+        <polygon fill="#FFFF80" id="D7" points="0,0 19.801003002062018,118.2367129114825 -44.12902581427977,126.77787299321058" stroke="black"/>
+        <g transform="scale(1,-1) translate(0,-163.3430572697954)">
+          <text fill="#0000FF" text-anchor="middle" x="-8.109340937405918" y="81.6715286348977">7</text>
+        </g>
+      </g>
+      <g>
+        <polygon fill="#FFFF80" id="D3" points="0,0 -52.59874857953759,151.11046174195417 -108.52786331071522,144.71248351545458" stroke="black"/>
+        <g transform="scale(1,-1) translate(0,-197.21529683827248)">
+          <text fill="#0000FF" text-anchor="middle" x="-53.70887063008427" y="98.60764841913624">3</text>
+        </g>
+      </g>
+      <g>
+        <polygon fill="#FFFF80" id="D6" points="0,0 -114.48875581938859,152.66081616095343 -172.87341779529368,102.97951941902741" stroke="black"/>
+        <g transform="scale(1,-1) translate(0,-170.4268903866539)">
+          <text fill="#0000FF" text-anchor="middle" x="-95.78739120489409" y="85.21344519332695">6</text>
+        </g>
+      </g>
+      <g>
+        <polygon fill="#FFFF80" id="D12" points="0,0 -172.2446528945024,102.6049684433088 -284.2355484036097,76.62344956799626" stroke="black"/>
+        <g transform="scale(1,-1) translate(0,-119.4856120075367)">
+          <text fill="#0000FF" text-anchor="middle" x="-152.1600670993707" y="59.74280600376835">12</text>
+        </g>
+      </g>
+      <g>
+        <polygon fill="#FFFF80" id="D4" points="0,0 -224.22382395714303,60.44565137407432 -269.77953962448674,3.3038464967657425e-14" stroke="black"/>
+        <g transform="scale(1,-1) translate(0,-40.29710091604957)">
+          <text fill="#0000FF" text-anchor="middle" x="-164.66778786054326" y="20.148550458024786">4</text>
+        </g>
+      </g>
+    </g>
+    <g>
+      <g>
+        <polygon fill="#FF80FF" id="D11" points="72.45616877873215,0 289.723285480731,0.0 269.97800572961194,61.92837740123701" stroke="black"/>
+        <g transform="scale(1,-1) translate(0,-41.285584934158)">
+          <text fill="#00FF00" text-anchor="middle" x="210.7191533296917" y="20.642792467079">11</text>
+        </g>
+      </g>
+      <g>
+        <polygon fill="#FF80FF" id="D2" points="72.45616877873215,0 320.26190920902513,77.69372567842454 218.1696261119458,122.0351930879028" stroke="black"/>
+        <g transform="scale(1,-1) translate(0,-133.1526125108849)">
+          <text fill="#00FF00" text-anchor="middle" x="203.62923469990105" y="66.57630625544245">2</text>
+        </g>
+      </g>
+      <g>
+        <polygon fill="#FF80FF" id="D1" points="72.45616877873215,0 226.16087092885223,128.72787008625158 171.55580176138002,162.10879909093302" stroke="black"/>
+        <g transform="scale(1,-1) translate(0,-193.89111278478973)">
+          <text fill="#00FF00" text-anchor="middle" x="156.7242804896548" y="96.94555639239486">1</text>
+        </g>
+      </g>
+      <g>
+        <polygon fill="#FF80FF" id="D5" points="72.45616877873215,0 177.194495917165,171.33266713689662 113.74805149557665,185.45883754002762" stroke="black"/>
+        <g transform="scale(1,-1) translate(0,-237.86100311794948)">
+          <text fill="#00FF00" text-anchor="middle" x="121.13290539715793" y="118.93050155897474">5</text>
+        </g>
+      </g>
+      <g>
+        <polygon fill="#FF80FF" id="D9" points="72.45616877873215,0 127.16702313445987,245.72896128797342 64.87213810310784,154.93057309230863" stroke="black"/>
+        <g transform="scale(1,-1) translate(0,-267.10635625352137)">
+          <text fill="#00FF00" text-anchor="middle" x="88.16511000543329" y="133.55317812676068">9</text>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

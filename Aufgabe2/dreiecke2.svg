@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<svg baseProfile="full" height="482.6414981047349" version="1.1" width="640.1622808639762" xmlns="http://www.w3.org/2000/svg" xmlns:ev="http://www.w3.org/2001/xml-events" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <defs/>
+  <g transform="scale(1,-1) translate(577.9432781698376,-477.6414981047349)">
+    <line stroke="green" stroke-width="3" x1="-577.9432781698376" x2="62.21900269413857" y1="0" y2="0"/>
+    <g>
+      <g>
+        <polygon fill="#FF8080" id="D2" points="0,0 -572.9432781698376,7.016531517036833e-14 -538.9084954208557,146.08775979947666" stroke="black"/>
+        <g transform="scale(1,-1) translate(0,-97.39183986631781)">
+          <text fill="#00FFFF" text-anchor="middle" x="-370.6172578635645" y="48.695919933158905">2</text>
+        </g>
+      </g>
+      <g>
+        <polygon fill="#FF8080" id="D4" points="0,0 -513.5880755822777,139.22387948801233 -440.16248775709806,270.0240440617882" stroke="black"/>
+        <g transform="scale(1,-1) translate(0,-272.8319490332003)">
+          <text fill="#00FFFF" text-anchor="middle" x="-317.91685444645856" y="136.41597451660016">4</text>
+        </g>
+      </g>
+      <g>
+        <polygon fill="#FF8080" id="D5" points="0,0 -441.1888365719248,270.65367258604005 -333.1533838935343,374.71298723194445" stroke="black"/>
+        <g transform="scale(1,-1) translate(0,-430.24443987865635)">
+          <text fill="#00FFFF" text-anchor="middle" x="-258.1140734884864" y="215.12221993932818">5</text>
+        </g>
+      </g>
+    </g>
+    <g>
+      <g>
+        <polygon fill="#FFFF80" id="D1" points="0,0 57.21900269413856,472.6414981047349 -90.95733528776859,449.32256025860585" stroke="black"/>
+        <g transform="scale(1,-1) translate(0,-614.6427055755605)">
+          <text fill="#0000FF" text-anchor="middle" x="-11.246110864543342" y="307.32135278778026">1</text>
+        </g>
+      </g>
+      <g>
+        <polygon fill="#FFFF80" id="D3" points="0,0 -57.129365979511924,282.21487477236025 -191.32052629670204,215.187026136691" stroke="black"/>
+        <g transform="scale(1,-1) translate(0,-331.60126727270085)">
+          <text fill="#0000FF" text-anchor="middle" x="-82.81663075873799" y="165.80063363635043">3</text>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
